@@ -2,4 +2,4 @@
 
 Wednesday
 
-Contributed to by Jane Doe, Code Ninja, & me
+Contributed to by Jane Doe, Code Ninja, & William Elliott
